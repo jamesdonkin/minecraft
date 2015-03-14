@@ -1,0 +1,16 @@
+[
+{
+  "modid": "jd_mod",
+  "name": "James Donkin's Practice Mod",
+  "description": "This mod is just for learning! ",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["James Donkin"],
+  "credits": "The Forge and FML guys for providing these awesome tools!",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
